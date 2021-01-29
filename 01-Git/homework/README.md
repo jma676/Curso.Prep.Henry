@@ -42,7 +42,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
   $ rm [nombre del archivo]
 ```
 
-## Ejercicio
+## Ejercicio \\DONE
 
 En este ejercicio crearemos un nuevo repositorio en Github y a partir de la linea de comandos crearemos un nuevo archivo y lo agregaremos a nuestro nuevo repositorio.
 
@@ -62,7 +62,7 @@ y presiona Enter. Una vez estés en el nivel superior, escribe:
 
 y presiona Enter. ¡Felicitaciones, has creado un directorio!
 
-### Crear un Repositorio
+### Crear un Repositorio \\DONE
 
 Entra a github.com y logueate con tu usuario. Luego en la parte de arriba a la derecha buscá el signo '+' y elegí 'new repository'.
 
@@ -78,7 +78,7 @@ Por último haz clic en **Crear repositorio**.
 
 Listo ya tenes tu propio repo. Ahora vas a poder clonarlo con las intrucciones de más abajo.
 
-### Clonar
+### Clonar \\DONE
 
 Para poder trabajar en un proyecto debes clonarlo (descargarlo) a tu máquina local. Para ello, accede al repositorio que creaste en tu cuenta, y haz click en el botón de la esquina superior derecha que dice "Clonar o descargar". Un dropdown aparecerá y podemos clickear en el icono del clipboard para copiar la dirección del repo. O, si el repo esta vacio vas a ver en el medio de la pantalla la URL con la dirección de tu repositorio.
 
@@ -93,7 +93,7 @@ Una vez tengas la dirección copiada, vuelve a tu terminal y escribe lo siguient
 
 Esto descargará el repositorio y tendrás disponible una copia local guardada en tu máquina.
 
-### Comandos de git:
+### Comandos de git: \\DONE
 
 Durante estas lecciones interactuaremos con git a través de la terminal. En el futuro, podrías estar interesado en usar una interfaz visual/gráfica, pero durante estas lecciones necesitaremos usar la terminal para acceder a todas las funciones de git.
 
